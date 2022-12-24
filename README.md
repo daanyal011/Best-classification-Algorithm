@@ -1,7 +1,7 @@
 # Best-classification-Algorithm
 In this we have classified which classification algorithm best classifies whether a loan is paidoff or collected
 
-> **Abstract** : This is a data science project  using python and streamlit , This is a exploratory data analysis project . In this we will use the libraries numpy, pandas, plotly.
+
 
 ### Platform, Libraries and Frameworks used
 1. [Pandas](https://pandas.pydata.org/)
